@@ -42,19 +42,14 @@ header a {
     font-family: Lora, serif;
     text-align: center;
     font-size: 300%;
-    color:#feffdf;
-    
-    
-}
-
-#logo a {
-    text-decoration: none;
+    color:#feffdf;   
+    border: 1px solid #dde0ab;
 }
 
 
 #menu {
-    font-size: 200%;
-    letter-spacing: 5px;
+    font-size: 100%;
+    letter-spacing: 2px;
 }
 
 #menu a {
@@ -64,8 +59,13 @@ header a {
 
 
 #menu li {
-    display: inline;
-    font-family: Dancing Script, cursive;
+    display: block;
+    font-family: Montserrat, sans-serif;
     text-align: center;
-    float: right;
+}
+
+#quote {
+    font-family: Dancing Script, cursive;
+    font-size: 180%;
+    text-align: center;
 }
