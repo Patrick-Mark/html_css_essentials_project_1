@@ -43,13 +43,16 @@ header a {
     text-align: center;
     font-size: 300%;
     color:#feffdf;   
-    border: 1px solid #dde0ab;
+    border-bottom: 3px solid #dde0ab;
 }
 
 
 #menu {
-    font-size: 100%;
-    letter-spacing: 2px;
+    font-size: 120%;
+    letter-spacing: 1px;
+    padding: 20px 10px 20px 10px;
+    display: inline;
+    margin-right: 30%;
 }
 
 #menu a {
@@ -59,7 +62,7 @@ header a {
 
 
 #menu li {
-    display: block;
+    display: inline;
     font-family: Montserrat, sans-serif;
     text-align: center;
 }
