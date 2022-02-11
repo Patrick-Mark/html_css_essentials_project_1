@@ -6,6 +6,29 @@
     border: none;
 }
 
+ 
+.first-color { 
+	background: #feffdf; 
+}
+	
+.second-color { 
+	background: #dde0ab; 
+}
+
+.third-color { 
+	background: #97cba9; 
+}
+
+.fourth-color { 
+	background: #668ba4; 
+}
+
 body {
-    background-color:aquamarine
+    color: #feffdf;
+    background-color: #668ba4;
+}
+
+h1 {
+    font-family: Lora, serif;
+    color:#feffdf;
 }
