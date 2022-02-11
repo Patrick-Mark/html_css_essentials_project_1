@@ -31,4 +31,10 @@ body {
 h1 {
     font-family: Lora, serif;
     color:#feffdf;
+    font-size: 250%;
 }
+
+#logo{
+    text-align: center;
+}
+
