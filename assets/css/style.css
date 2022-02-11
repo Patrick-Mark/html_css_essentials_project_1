@@ -31,10 +31,41 @@ body {
 h1 {
     font-family: Lora, serif;
     color:#feffdf;
-    font-size: 250%;
+    
+}
+
+header a {
+    text-decoration: none;
 }
 
 #logo{
+    font-family: Lora, serif;
     text-align: center;
+    font-size: 300%;
+    color:#feffdf;
+    
+    
 }
 
+#logo a {
+    text-decoration: none;
+}
+
+
+#menu {
+    font-size: 200%;
+    letter-spacing: 5px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #feffdf;
+}
+
+
+#menu li {
+    display: inline;
+    font-family: Dancing Script, cursive;
+    text-align: center;
+    float: right;
+}
