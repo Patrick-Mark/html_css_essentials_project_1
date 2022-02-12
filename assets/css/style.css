@@ -48,16 +48,19 @@ header a {
 
 
 #menu {
+    
     font-size: 120%;
     letter-spacing: 1px;
     padding: 20px 10px 20px 10px;
     display: inline;
     margin-right: 30%;
+    
 }
 
 #menu a {
     text-decoration: none;
     color: #feffdf;
+    
 }
 
 
@@ -65,10 +68,20 @@ header a {
     display: inline;
     font-family: Montserrat, sans-serif;
     text-align: center;
+    border: 2px solid #feffdf;
+    
 }
 
 #quote {
     font-family: Dancing Script, cursive;
     font-size: 180%;
     text-align: center;
+}
+
+/* Hero image*/
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url(../images/hero-image.jpg) no-repeat center center;
+    
 }
