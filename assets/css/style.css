@@ -64,18 +64,22 @@ header a {
 }
 
 
+
+/* fix the margin and make it responsive*/
 #menu li {
     display: inline;
     font-family: Montserrat, sans-serif;
     text-align: center;
     border: 2px solid #feffdf;
-    
+    margin: 10%;
 }
 
 #quote {
     font-family: Dancing Script, cursive;
-    font-size: 180%;
+    font-size: 200%;
     text-align: center;
+    padding: 20px 20px 5px 20px;
+    border-bottom: 2px solid #feffdf;
 }
 
 /* Hero image*/
