@@ -1,3 +1,5 @@
+/* Link to import the desired Google Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Montserrat:wght@300&display=swap');
 
 *{
@@ -6,7 +8,7 @@
     border: none;
 }
 
- 
+ /* The hex codes for the selected color palette that match Irish nature colors*/
 .first-color { 
 	background: #feffdf; 
 }
@@ -31,7 +33,11 @@ body {
 h1 {
     font-family: Lora, serif;
     color:#feffdf;
-    
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
 
 header a {
@@ -41,7 +47,7 @@ header a {
 #logo{
     font-family: Lora, serif;
     text-align: center;
-    font-size: 300%;
+    font-size: 200%;
     color:#feffdf;   
     border-bottom: 3px solid #dde0ab;
 }
@@ -82,10 +88,10 @@ header a {
     border-bottom: 2px solid #feffdf;
 }
 
-/* Hero image*/
-#hero-image {
-    height: 800px;
-    width: 100%;
-    background: url(../images/hero-image.jpg) no-repeat center center;
+/* home_image*/
+#home_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
