@@ -130,9 +130,16 @@ header a {
 
 #video_div {
     display: block;
+    clear: both;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
+}
+
+#sights_sounds_heading {
+    display: block;
+    clear: both;
+    margin-top: 50px;
 }
 
 #audio_div {
