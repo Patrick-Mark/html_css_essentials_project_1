@@ -55,11 +55,9 @@ header a {
 
 
 #menu {
-    
-    font-size: 120%;
+    display: inline-block;
+    font-size: 110%;
     letter-spacing: 1px;
-    padding: 20px 10px 20px 10px;
-    display: inline;
     margin-right: 30%;
     
 }
@@ -70,15 +68,19 @@ header a {
     
 }
 
+#menu a:hover {
+    background-color: #454B1B;
+    color: #feffdf;
+}
 
-
-/* fix the margin and make it responsive*/
 #menu li {
-    display: inline;
+    
+    display: inline-block;
+    position: relative;
     font-family: Montserrat, sans-serif;
     text-align: center;
-    border: 2px solid #feffdf;
-    margin: 10%;
+    margin-right: 30px;
+    
 }
 
 #quote {
