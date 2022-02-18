@@ -1,5 +1,5 @@
 # Wild Atlantic Mindfulness Project 1 
-Over view of the project
+This website allows users to access information about mindfulness and relaxation with an Irish 'Wild Atlantic Way' theme.
 
 
 # Features
