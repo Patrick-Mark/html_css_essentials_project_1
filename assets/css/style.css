@@ -106,8 +106,8 @@ header a {
 }
 /* home_image*/
 #home_image {
-    width: 500px;
-    height: 300px;
+    width: 40vw;
+    height: 50vh;
     display: block;
     margin-top: 10px;
     margin-left: auto;
@@ -137,9 +137,9 @@ header a {
 iframe {
     display: block;
     clear: both;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
+    width: 50vw;
+    height: 20em;
+    margin: 0 auto;
 }
 
 
@@ -185,6 +185,7 @@ body > footer {
     color: #feffdf;
 }
 
+/* Form code adjusted from the following W3Schools code: https://www.w3schools.com/howto/howto_css_stacked_form.asp */
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
