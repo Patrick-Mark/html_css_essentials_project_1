@@ -88,7 +88,10 @@ header a {
     border-bottom: 1px solid #feffdf;
 }
 
-
+#quote_div {
+    background-color: #454B1B;
+    
+}
 #quote {
     font-family: Dancing Script, cursive;
     font-size: 200%;
@@ -97,12 +100,14 @@ header a {
     border-bottom: 2px solid #feffdf;
 }
 
+#home_img_div {
+    clear: both;
+    padding-top: 20px;
+}
 /* home_image*/
 #home_image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: fit-content;
+    width: 500px;
+    height: 300px;
 }
 
 #mindful_content {
@@ -125,3 +130,4 @@ header a {
     margin-top: 10px;
     background-color: #454B1B;
 }
+
