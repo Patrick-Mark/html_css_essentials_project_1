@@ -127,8 +127,14 @@ header a {
     text-align: justify;
 }
 
+#sights_sounds_heading {
+    display: block;
+    clear: both;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 
-#video_div {
+iframe {
     display: block;
     clear: both;
     margin-left: auto;
@@ -136,11 +142,7 @@ header a {
     margin-bottom: 20px;
 }
 
-#sights_sounds_heading {
-    display: block;
-    clear: both;
-    margin-top: 50px;
-}
+
 
 #audio_div {
     text-align: center;
