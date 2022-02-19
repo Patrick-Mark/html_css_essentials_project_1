@@ -5,10 +5,10 @@ This website allows users to access information about mindfulness and relaxation
 ![responsiveness image](/media/responsive.JPG)
 
 # Features
-Navbar, Mindfulness information (HSE), Gallery of images, videos and audio, contact, footer with Github link.
-Features left to implement (map).
+
 ## Navigation Bar
 The Navigation bar provides access to each of the three pages of the website; Home, Sights and Sounds, and Contact. 
+![navbar image](/media/logo_and_nav.JPG)
 
 ## Landing Page
 ![landing page image](/media/landing.JPG)
@@ -16,7 +16,7 @@ The landing pages offers the user the option to navigate to the various of the s
 The landing page displays an image of a girl sitting mindfully by the Cliffs of Moher; an iconic Irish landmark. This image suits the theme of mindfulness with an Irish influence. Below the image there is an mindfulness-related quote in Irish.
 
 ## Colour Palette
-![colour palette image](/media/colours.JPG)
+![colour palette image](/media/colours.JPG)  
 The colour palette selected for this website was inspired by the colours of the natural Irish landscape.
 The colour palette used can be found at the following location: https://www.csscolorpalettes.com/palettes/932
 
@@ -32,8 +32,7 @@ The footer on this website directs a user to my Github profile where the website
 ![sights and sounds image](/media/sights_video.JPG)
 ![sights and sounds audio image](/media/sights_audio.JPG)  
 The Sights and sounds page offers the user the ability to watch a high resoluton video that explore some of the most beautiful places in Ireland as well as the option to hear some relaxing Irish sounds that can be used in miditation sessions. The recordings are; a stream, the Dawn Chorus, and an Irish whistle.
-The video is taken from: [scenic ireland video](https://www.youtube.com/watch?v=ycDLfQ1Cv_Y&t=2142s&ab_channel=ScenicRelaxation)  
-The
+
 
 ## Contact Form
 ![contact image](/media/contact.JPG)  
@@ -58,9 +57,13 @@ The Github deployment process consisted of navigating to my Github repo, selecti
 
 # Credits/References
 
+## Code
 
-## Content
+## media and content
 The mindfulness and relaxation information is taken from the Irish HSE: 
 </br>
 [HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
-[HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)
+[HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)  
+
+The scenic Ireland video is taken from: [Scenic Relaxation Youtube Channel](https://www.youtube.com/watch?v=ycDLfQ1Cv_Y&t=2142s&ab_channel=ScenicRelaxation)  
+
