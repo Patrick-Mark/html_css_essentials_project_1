@@ -56,6 +56,9 @@ In the future I would like to add a Map feature that would allow users to view l
 
 # Testing
 The site was tested with the 'inspect' option in Firefox and Chrome, by employing the different device screen sizes.
+all of the links have been tested to ensure that they lead to the correct places. 
+The video content was altered to erase the autoplay function (which is not acceptable).
+The form was tested by populating the form and submitting the information. 
 
 ## Validator Testing
 
@@ -73,6 +76,7 @@ The Lighthouse score accessibility score was high, but the performance was low (
 
 ## Bugs
 There was a bug when the video was inserted with the video element, this was solved by taking the embed code from YouTube directly.  
+The from initially returned a 404 error, because the form action attribute was set to a php location. This was removed. 
 Unfixed Bugs: The performance score from Lighthouse was low due to the size of the images.
 
 ## Deployment
