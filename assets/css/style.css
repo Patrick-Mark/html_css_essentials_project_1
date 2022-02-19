@@ -8,13 +8,13 @@
     border: none;
 }
 
-
+/* set background colour and font colour */
 body {
     color: #feffdf;
     background-color: #668ba4;
 }
 
-
+/* styling the header and header a tags */
 h1 {
     font-family: Lora, serif;
     color:#feffdf;
@@ -29,6 +29,7 @@ header a {
     text-decoration: none;
 }
 
+/*styling the logo for Wild Atlantic mindfulness*/
 #logo{
     float:left;
     font-family: Lora, serif;
@@ -36,7 +37,7 @@ header a {
     color:#feffdf;   
 }
 
-
+/* styling the navbar and list items and text*/
 #menu {
     font-size: 110%;
     letter-spacing: 1px;

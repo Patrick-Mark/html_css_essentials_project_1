@@ -67,9 +67,14 @@ The Github deployment process consisted of navigating to my Github repo, selecti
 ## Code
 The contact form code was adjusted from the W3Schools, stacked from code [W3Schools Stacked Form](https://www.w3schools.com/howto/howto_css_stacked_form.asp)  
 
+The footer uses the Github social icon from Fontawesome [Fontawesome Github Logo](https://fontawesome.com/icons/github?s=brands)  
 
+ The Header formatting code was adjusted from the Love Running Code Institute Peoject [love running code](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/)  
+ 
 
 ## Media and Content
+The main image is taken from Elias Ehmann's Unsplash Account [main home image](https://unsplash.com/photos/0WDgjo8_l-Q)
+
 The mindfulness and relaxation information is taken from the Irish HSE:  
 
 [HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)  
@@ -82,6 +87,14 @@ The stream audio recording was taken from: [Sonicport Freesound Profile](https:/
 The Dawn Chorus audio was taken from: [Synge Freesound Profile](https://freesound.org/people/Synge101/sounds/611453/)  
 The Irish Whistle audio was taken from: [Nigelnix Freesound Profile](https://freesound.org/people/nigelnix/sounds/130108/)  
 
-The footer uses the Github social icon from Fontawesome [Fontawesome Github Logo](https://fontawesome.com/icons/github?s=brands)
+  
+
+
+# Acknowledgements  
+Chris my mentor for all the guidance and good cheer.  
+Helen Mill for all of her help in the lead up to enrolment.  
+The Slack community for the troubleshooting.    
+Andrew Farrell who helped me with some code.  
+
 
 
