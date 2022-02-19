@@ -26,7 +26,7 @@ The text content on the landing page explains the basic definition of Mindfulnes
 
 ## Footer
 ![footer image](/media/footer.JPG)
-The footer on this website directs a user to my Github profile where the website source code can be accessed. It uses the Github social icon from Fontawesome https://fontawesome.com/icons/github?s=brands
+The footer on this website directs a user to my Github profile where the website source code can be accessed. 
 
 ## Sights and Sounds
 ![sights and sounds image](/media/sights_video.JPG)
@@ -62,11 +62,15 @@ The Github deployment process consisted of navigating to my Github repo, selecti
 # Credits/References
 
 ## Code
+The contact form code was adjusted from the W3Schools, stacked from code [W3Schools Stacked Form](https://www.w3schools.com/howto/howto_css_stacked_form.asp)  
 
-## media and content
-The mindfulness and relaxation information is taken from the Irish HSE: 
-</br>
-[HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
+
+
+## Media and Content
+The mindfulness and relaxation information is taken from the Irish HSE:  
+
+[HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)  
+
 [HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)  
 
 The scenic Ireland video is taken from: [Scenic Relaxation Youtube Channel](https://www.youtube.com/watch?v=ycDLfQ1Cv_Y&t=2142s&ab_channel=ScenicRelaxation)  
@@ -74,5 +78,7 @@ The scenic Ireland video is taken from: [Scenic Relaxation Youtube Channel](http
 The stream audio recording was taken from: [Sonicport Freesound Profile](https://freesound.org/people/sonicport/sounds/165877/)  
 The Dawn Chorus audio was taken from: [Synge Freesound Profile](https://freesound.org/people/Synge101/sounds/611453/)  
 The Irish Whistle audio was taken from: [Nigelnix Freesound Profile](https://freesound.org/people/nigelnix/sounds/130108/)  
+
+The footer uses the Github social icon from Fontawesome [Fontawesome Github Logo](https://fontawesome.com/icons/github?s=brands)
 
 
