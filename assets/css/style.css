@@ -220,8 +220,8 @@ input[type=text], select {
   }
 
   /* Media Queries */
-  /* Medium screens 950px*/
-  @media screen and (max-width: 950px) {
+  /* Large screens 1200px*/
+  @media screen and (max-width: 1200px) {
 
     #menu li{
         clear: left;
@@ -241,8 +241,31 @@ input[type=text], select {
 
   }
       
+
+
+   /* Medium screens 9500px*/
+   @media screen and (max-width: 950px) {
+
+    #menu li{
+        clear: left;
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+        margin-bottom: 5px;
+        line-height: 25px;
+    }
+
+    #home_image {
+        width: 100vw;
+        height: 40vh;
+        display: block;
+        margin: 0 auto
+    }
+
+  }
+      
   /* mobile size 320px */
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 320px) {
 
     #menu li{
         clear: left;
