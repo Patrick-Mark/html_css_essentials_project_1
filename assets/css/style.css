@@ -37,7 +37,7 @@ header a {
     color:#feffdf;   
 }
 
-/* styling the navbar and list items and text*/
+/* styling the navbar, navbar animation, list items and text*/
 #menu {
     font-size: 110%;
     letter-spacing: 1px;
@@ -73,6 +73,7 @@ header a {
     border-bottom: 1px solid #feffdf;
 }
 
+/* styling the quote with Google fonts and setting colours*/
 #quote_div {
     background-color: #454B1B;
     
@@ -89,6 +90,7 @@ header a {
     clear: both;
     padding-top: 20px;
 }
+
 /* home_image*/
 #home_image {
     width: 50vw;
@@ -96,7 +98,7 @@ header a {
     display: block;
     margin: 0 auto
 }
-
+/*styling the text content form the HSE*/
 #mindful_content {
     text-align: justify;
     padding-top: 25px;
@@ -117,6 +119,7 @@ header a {
     margin-bottom: 20px;
 }
 
+/* styling the Youtube video*/
 iframe {
     display: block;
     clear: both;
@@ -126,7 +129,7 @@ iframe {
 }
 
 
-
+/* styling the audio from freesound*/
 #audio_div {
     text-align: center;
 }
@@ -142,6 +145,7 @@ audio {
     clear: both;
 }
 
+/*styling the footer*/
 #footer {
     text-align: center;
     padding: 10px;
@@ -150,19 +154,24 @@ audio {
     
 }
 
+/* setting the html and body height*/
 html, body {
     height: 100%;
 }
+
+/*ensuring that the footer sticks to the bottom of the page*/
 body > footer {
     position: sticky;
     top: 100vh;
 }
 
+/*styling the footer link*/
 #footer a {
     text-decoration: none;
     color: #feffdf;
 }
 
+/* styling the Github logo from font awesome*/
 #footer i {
     font-size: 160%;
     color: #feffdf;
@@ -240,6 +249,7 @@ input[type=text], select {
         line-height: 25px;
     }
 
+    /* setting the size of the home image at this meda size*/
     #home_image {
         width: 100vw;
         height: 40vh;
