@@ -1,5 +1,6 @@
 # Wild Atlantic Mindfulness Project 1 
-Wild Atlantic Mindfulness is a website for users who would like to experience some This website allows users to access information about mindfulness and relaxation with an Irish 'Wild Atlantic Way' theme.
+Wild Atlantic Mindfulness is a website for users who want an introduction to mindfulness and relaxation, and want to expeirence some of the sights and sounds of beautiful Ireland by watching a 4K resolution video of scenic Irish locations and listening to soundscape recordings from various locations in the country. 
+This website allows users to access information about mindfulness and relaxation with an Irish 'Wild Atlantic Way' theme.
 
 ![responsiveness image](/media/responsive.JPG)
 # Features
@@ -35,8 +36,13 @@ Unfixed Bugs
 Github deployment process and live link
 
 
-## Credits/References
+# Credits/References
 
-# Content
+## Content
+The mindfulness and relaxation information is taken from the Irish HSE: 
+[HSE Mindfulness Content (https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
+[HSE Relaxation Content] (https://www2.hse.ie/wellbeing/mental-health/relaxation.html)
+
+
 
 # Media
