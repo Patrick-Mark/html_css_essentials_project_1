@@ -31,34 +31,36 @@ The footer on this website directs a user to my Github profile where the website
 ## Sights and Sounds
 ![sights and sounds image](/media/sights_video.JPG)
 ![sights and sounds audio image](/media/sights_audio.JPG)  
-
 The Sights and sounds page offers the user the ability to watch a high resoluton video that explore some of the most beautiful places in Ireland as well as the option to hear some relaxing Irish sounds that can be used in miditation sessions. The recordings are; a stream, the Dawn Chorus, and an Irish whistle.
+The video is taken from: [scenic ireland video](https://www.youtube.com/watch?v=ycDLfQ1Cv_Y&t=2142s&ab_channel=ScenicRelaxation)  
+The
 
 ## Contact Form
-
+![contact image](/media/contact.JPG)  
+The contact form allows a user to enter their details and country of origin to contact 
 # Testing
 Embedding YT video problem; solved by taking the embedding code from Youtube. 
 
 ## Validator Testing
 
-HTML
+![html validation](/media/html_valid.JPG)
+The code passed html validation with no errors. 
 
-CSS
+![css validation](/media/css_valid.JPG)  
+The css code passed css validation with no errors. 
 
-Unfixed Bugs
+Unfixed Bugs: The performance score from Lighthouse was low due to the size of the images.
 
 ## Deployment
-Github deployment process and live link
+
+The Github deployment process consisted of navigating to my Github repo, selecting 'Settings' from the options bar, then navigating to the 'pages' location. From the 'pages' location, selecting the repo branch and selecting 'publish'. This provides a livelink where the site can be accessed and used. 
 
 
 # Credits/References
+
 
 ## Content
 The mindfulness and relaxation information is taken from the Irish HSE: 
 </br>
 [HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
 [HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)
-
-
-
-# Media
