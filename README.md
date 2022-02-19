@@ -38,16 +38,20 @@ The Sights and sounds page offers the user the ability to watch a high resoluton
 ![contact image](/media/contact.JPG)  
 The contact form allows a user to enter their details and country of origin to contact 
 # Testing
-Embedding YT video problem; solved by taking the embedding code from Youtube. 
+
 
 ## Validator Testing
 
-![html validation](/media/html_valid.JPG)
+![html validation](/media/html_valid.JPG)  
 The code passed html validation with no errors. 
 
 ![css validation](/media/css_valid.JPG)  
 The css code passed css validation with no errors. 
 
+
+
+## Bugs
+There was a bug when the video was inserted with the video element, this was solved by taking the embed code from YouTube directly.  
 Unfixed Bugs: The performance score from Lighthouse was low due to the size of the images.
 
 ## Deployment
@@ -66,4 +70,9 @@ The mindfulness and relaxation information is taken from the Irish HSE:
 [HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)  
 
 The scenic Ireland video is taken from: [Scenic Relaxation Youtube Channel](https://www.youtube.com/watch?v=ycDLfQ1Cv_Y&t=2142s&ab_channel=ScenicRelaxation)  
+
+The stream audio recording was taken from: [Sonicport Freesound Profile](https://freesound.org/people/sonicport/sounds/165877/)  
+The Dawn Chorus audio was taken from: [Synge Freesound Profile](https://freesound.org/people/Synge101/sounds/611453/)  
+The Irish Whistle audio was taken from: [Nigelnix Freesound Profile](https://freesound.org/people/nigelnix/sounds/130108/)  
+
 
