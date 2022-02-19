@@ -40,8 +40,9 @@ Github deployment process and live link
 
 ## Content
 The mindfulness and relaxation information is taken from the Irish HSE: 
-[HSE Mindfulness Content (https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
-[HSE Relaxation Content] (https://www2.hse.ie/wellbeing/mental-health/relaxation.html)
+</br>
+[HSE Mindfulness](https://www2.hse.ie/wellbeing/mental-health/mindfulness.html)
+[HSE Relaxation](https://www2.hse.ie/wellbeing/mental-health/relaxation.html)
 
 
 
