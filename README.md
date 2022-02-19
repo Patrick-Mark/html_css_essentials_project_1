@@ -10,6 +10,11 @@ This website allows users to access information about mindfulness and relaxation
 The Navigation bar provides access to each of the three pages of the website; Home, Sights and Sounds, and Contact. 
 ![navbar image](/media/logo_and_nav.JPG)
 
+## Navigation Hover Effect
+![navbar hover](/media/hover.JPG)  
+The navbar changes colour when a user hovers over it to indicate which button is being selected. There is also a link underline that indicates the current page that the user is on.  
+User Story; 'I want this feature to help me orient myself within the website and have visual feedback that makes me aware of my current location'
+
 ## Landing Page
 ![landing page image](/media/landing.JPG)
 The landing pages offers the user the option to navigate to the various of the sections of the website through the navigation bar. Clicking on the 'Wild Atlantic Mindfulness' logo will take the user back to the homepage at any time. 
@@ -70,7 +75,7 @@ The contact form code was adjusted from the W3Schools, stacked from code [W3Scho
 The footer uses the Github social icon from Fontawesome [Fontawesome Github Logo](https://fontawesome.com/icons/github?s=brands)  
 
  The Header formatting code was adjusted from the Love Running Code Institute Peoject [love running code](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/)  
- 
+
 
 ## Media and Content
 The main image is taken from Elias Ehmann's Unsplash Account [main home image](https://unsplash.com/photos/0WDgjo8_l-Q)
