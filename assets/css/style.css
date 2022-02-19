@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Montserrat:wght@300&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -17,7 +17,7 @@ body {
 /* styling the header and header a tags */
 h1 {
     font-family: Lora, serif;
-    color:#feffdf;
+    color: #feffdf;
     text-align: center;
 }
 
@@ -30,21 +30,22 @@ header a {
 }
 
 /*styling the logo for Wild Atlantic mindfulness*/
-#logo{
-    float:left;
+#logo {
+    float: left;
     font-family: Lora, serif;
     font-size: 200%;
-    color:#feffdf;   
+    color: #feffdf;
 }
 
 /* styling the navbar, navbar animation, list items and text*/
 #menu {
     font-size: 110%;
     letter-spacing: 1px;
-    
+
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -53,14 +54,14 @@ header a {
     float: right;
     font-family: Montserrat, sans-serif;
     margin-right: 1em;
-    
+
 }
 
 
 #menu a {
     text-decoration: none;
     color: #feffdf;
-    
+
 }
 
 #menu a:hover {
@@ -76,8 +77,9 @@ header a {
 /* styling the quote with Google fonts and setting colours*/
 #quote_div {
     background-color: #454B1B;
-    
+
 }
+
 #quote {
     font-family: Dancing Script, cursive;
     font-size: 200%;
@@ -98,6 +100,7 @@ header a {
     display: block;
     margin: 0 auto
 }
+
 /*styling the text content form the HSE*/
 #mindful_content {
     text-align: justify;
@@ -151,16 +154,17 @@ audio {
     padding: 10px;
     margin-top: 10px;
     background-color: #454B1B;
-    
+
 }
 
 /* setting the html and body height*/
-html, body {
+html,
+body {
     height: 100%;
 }
 
 /*ensuring that the footer sticks to the bottom of the page*/
-body > footer {
+body>footer {
     position: sticky;
     top: 100vh;
 }
@@ -178,7 +182,8 @@ body > footer {
 }
 
 /* Form code adjusted from the following W3Schools code: https://www.w3schools.com/howto/howto_css_stacked_form.asp */
-input[type=text], select {
+input[type=text],
+select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -186,10 +191,10 @@ input[type=text], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-  }
-  
-  /* Style the submit button */
-  input[type=submit] {
+}
+
+/* Style the submit button */
+input[type=submit] {
     width: 100%;
     background-color: #04AA6D;
     color: white;
@@ -198,26 +203,26 @@ input[type=text], select {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-  }
-  
-  /* Add a background color to the submit button on mouse-over */
-  input[type=submit]:hover {
-    background-color: #45a049;
-  }
+}
 
-  #form_box {
+/* Add a background color to the submit button on mouse-over */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+#form_box {
     border-radius: 5px;
     background-color: #454B1B;
     padding: 1em;
     width: 50vw;
     margin: 0 auto;
-  }
+}
 
-  /* Media Queries */
-  /* Large screens 1200px*/
-  @media screen and (max-width: 1200px) {
+/* Media Queries */
+/* Large screens 1200px*/
+@media screen and (max-width: 1200px) {
 
-    #menu li{
+    #menu li {
         clear: left;
         float: left;
         margin-top: 20px;
@@ -233,14 +238,14 @@ input[type=text], select {
         margin: 0 auto
     }
 
-  }
-      
+}
 
 
-   /* Medium screens 9500px*/
-   @media screen and (max-width: 950px) {
 
-    #menu li{
+/* Medium screens 9500px*/
+@media screen and (max-width: 950px) {
+
+    #menu li {
         clear: left;
         float: left;
         margin-top: 20px;
@@ -257,12 +262,12 @@ input[type=text], select {
         margin: 0 auto
     }
 
-  }
-      
-  /* mobile size 320px */
-  @media screen and (max-width: 320px) {
+}
 
-    #menu li{
+/* mobile size 320px */
+@media screen and (max-width: 320px) {
+
+    #menu li {
         clear: left;
         float: left;
         margin-top: 20px;
@@ -274,6 +279,6 @@ input[type=text], select {
     #home_image {
         width: 100vw;
         height: 40vh;
-        
+
     }
-  }
+}
