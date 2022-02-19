@@ -51,6 +51,9 @@ User Story; 'I want to experience some sights and sounds of Ireland that will ma
 The contact form allows a user to enter their details and country of origin to contact.
 User Story: 'I want to have the ability to send a message to the creator'.
 
+## Future Features  
+In the future I would like to add a Map feature that would allow users to view locations and activities around the Wild Atlantic Way.
+
 # Testing
 The site was tested with the 'inspect' option in Firefox and Chrome, by employing the different device screen sizes.
 
