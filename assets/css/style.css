@@ -67,7 +67,7 @@ header a {
     list-style-type: none;
     float: right;
     font-family: Montserrat, sans-serif;
-    margin-right: 30px;
+    margin-right: 1em;
     
 }
 
@@ -220,4 +220,24 @@ input[type=text], select {
   }
 
   /* Media Queries */
-  
+  /* Medium screens 950px*/
+  @media screen and (max-width: 950px) {
+
+    #menu li{
+        clear: left;
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+        margin-bottom: 5px;
+        line-height: 25px;
+    }
+
+    #home_image {
+        width: 50vw;
+        height: 40vh;
+        display: block;
+        margin: 0 auto
+    }
+
+  }
+      
