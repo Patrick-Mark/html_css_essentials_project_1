@@ -46,7 +46,10 @@ The contact form allows a user to enter their details and country of origin to c
 The code passed html validation with no errors. 
 
 ![css validation](/media/css_valid.JPG)  
-The css code passed css validation with no errors. 
+The css code passed css validation with no errors.  
+  
+![lighthouse score](/media/lighthouse.JPG)  
+The Lighthouse score accessibility score was high, but the performance was low (this is likely due to the size of the image content)
 
 
 
