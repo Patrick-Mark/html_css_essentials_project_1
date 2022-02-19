@@ -8,22 +8,6 @@
     border: none;
 }
 
- /* The hex codes for the selected color palette that match Irish nature colors*/
-.first-color { 
-	background: #feffdf; 
-}
-	
-.second-color { 
-	background: #dde0ab; 
-}
-
-.third-color { 
-	background: #97cba9; 
-}
-
-.fourth-color { 
-	background: #668ba4; 
-}
 
 body {
     color: #feffdf;
